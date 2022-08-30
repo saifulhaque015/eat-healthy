@@ -1,0 +1,40 @@
+h1 {
+    font-size: 50px;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.half-side {
+    width: 50%;
+}
+
+.top-text {
+    margin: auto;
+}
+
+.top-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+}
+
+.half-side img {
+    width: 80%;
+}
+
+.female-models {
+    height: 500px;
+}
+
+.female-bg {
+    background-image: url(/images/shapes/Frame\ 58.jpg);
+    background-image: url(/images/shapes/7.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
